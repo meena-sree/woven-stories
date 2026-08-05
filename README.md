@@ -77,6 +77,19 @@ This project gave me hands-on experience with:
 - AI-assisted development workflows
 
 ---
+## AI-Assisted Development
+
+AI was used throughout this project to:
+
+- Research WordPress concepts
+- Troubleshoot migration and deployment issues
+- Improve SEO implementation
+- Optimize performance
+- Organize project documentation
+
+All implementations were manually verified and tested.
+
+---
 
 ## Challenges
 
