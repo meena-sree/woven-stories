@@ -106,3 +106,5 @@ One of the biggest learning experiences was deploying and migrating the site acr
 **Sree Meenakshi Manian**
 
 Frontend Developer | WordPress Enthusiast | Aspiring Happiness Engineer
+
+© 2026 Sree Meenakshi Manian. This repository is intended for portfolio and demonstration purposes. Reuse or redistribution of the project materials without permission is not permitted.
